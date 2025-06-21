@@ -1,0 +1,6 @@
+{
+  "log-grep": {
+    "command": "node",
+    "args": ["/home/allumbra/log-grep-mcp/dist/index.js"]
+  }
+}
